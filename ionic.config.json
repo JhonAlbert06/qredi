@@ -1,0 +1,8 @@
+{
+  "name": "Qredi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "09b73d66"
+}
